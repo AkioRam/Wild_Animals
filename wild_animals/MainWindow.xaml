@@ -11,6 +11,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
             <ColumnDefinition/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="2*"/>
@@ -32,6 +33,12 @@
                        Но иногда они могут вести себя как большие кошки, которыми, по сути, и являются.Тигры относятся к роду пантер наряду со львом, леопардом и ягуаром. 
                        Популяция во всем мире насчитывает до 6500 особей. 
                        В нее входит несколько подвидов тигра." TextWrapping="Wrap"/>
+        </StackPanel>
+
+        <StackPanel Name="Gepard" Grid.Column="3" Grid.RowSpan="2" Margin="10">
+            <Image Source="/Pictures/gepard.jpeg"  Height="250"/>
+            <TextBlock Text="Гепа́рд — хищное млекопитающее семейства кошачьих, обитает в большинстве стран Африки,
+                       а также на Ближнем Востоке. Это единственный современный представитель рода Acinonyx." TextWrapping="Wrap"/>
         </StackPanel>
     </Grid>
 </Window>
