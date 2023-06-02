@@ -18,9 +18,7 @@
         </Grid.RowDefinitions>
         <StackPanel Name="Slon" Grid.Column="0" Grid.RowSpan="2" Margin="10">
             <Image Source="/Pictures/elephant.jpg"  Height="250"/>
-            <TextBlock Text="Слоны – удивительные животные, обладающие внушительными габаритами и необычным внешним видом. 
-                       Но помимо этого они могут похвастаться большим количеством особенностей в плане образа жизни и поведения.
-                       Обитают крупнейшие наземные животные планеты в саваннах Африки и в тропических лесах на юго-востоке Азии. В мире их осталось не так уж и много." TextWrapping="Wrap"/>
+            <TextBlock Text="Слон - крупное толстокожее хоботное млекопитающее, принадлежащее семейству слоновых" TextWrapping="Wrap"/>
         </StackPanel>
         <StackPanel Name="Zhiraf" Grid.Column="1" Grid.RowSpan="2" Margin="10">
             <Image Source="/Pictures/giraffe.jpg"  Height="250"/>

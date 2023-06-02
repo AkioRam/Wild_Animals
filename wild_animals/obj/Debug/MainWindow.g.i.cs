@@ -49,7 +49,7 @@ namespace wild_animals {
         #line hidden
         
         
-        #line 25 "..\..\MainWindow.xaml"
+        #line 23 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.StackPanel Zhiraf;
         
@@ -57,7 +57,7 @@ namespace wild_animals {
         #line hidden
         
         
-        #line 31 "..\..\MainWindow.xaml"
+        #line 29 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.StackPanel Tigr;
         
